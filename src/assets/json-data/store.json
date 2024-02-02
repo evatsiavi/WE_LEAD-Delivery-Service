@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "McDonald's",
+    "category": "FAST_FOOD",
+    "address": "Syntagma 15",
+    "description": "I'm lovin' it!",
+    "avatar": "https://imageproxy.wolt.com/mes-image/9dda58a4-a474-4e8e-a9ba-9da30a3a0d03/b7e18341-6f6e-413c-a3ee-93e31247b2a3",
+    "rating": "4",
+    "products": [
+      {
+        "id": "1",
+        "name": "Big Mac",
+        "category": "BURGERS",
+        "price": 4.99,
+        "description": "Fluffy bun with delicious burger, bacon, grated cheese, tomato, lettuce and mayonnaise",
+        "avatar": "https://imageproxy.wolt.com/menu/menu-images/5f031548052c1f9d72024d81/353d3ee4-f01c-11ed-b923-72378383b646_dh_1010.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Crispy McBacon",
+        "category": "BURGERS",
+        "price": 3.99,
+        "description": "Fluffy bun with the delicious combination of burger with melted cheddar cheese and fried organic egg, crispy bacon, lettuce, mayonnaise and Hellmann's Original BBQ sauce. The ultimate hangover.",
+        "avatar": "https://imageproxy.wolt.com/menu/menu-images/5f031548052c1f9d72024d81/3560e6b4-f01c-11ed-b923-72378383b646_dh_1034.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Deluxe Burger",
+        "category": "BURGERS",
+        "price": 2.99,
+        "description": "",
+        "avatar": "https://imageproxy.wolt.com/menu/menu-images/5f031548052c1f9d72024d81/3544940a-f01c-11ed-b923-72378383b646_dh_1020.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Single Big Tasty Chicken Bacon",
+        "category": "BURGERS",
+        "price": 2.79,
+        "description": "Extreme delight with crispy breaded chicken fillet, tomato, lettuce and sweet chili mayo sauce",
+        "avatar": "https://imageproxy.wolt.com/menu/menu-images/5f031548052c1f9d72024d81/35396cb0-f01c-11ed-b923-72378383b646_dh_1098.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Chicken McNuggets",
+        "category": "NUGGETS",
+        "price": 3.99,
+        "description": "Breaded fillets of juicy chicken breast with mustard sauce.",
+        "avatar": "https://imageproxy.wolt.com/menu/menu-images/5f031548052c1f9d72024d81/356d0c5a-f01c-11ed-b923-72378383b646_dh_1194.jpg"
+      },
+      {
+        "id": "6",
+        "name": "Caesar Salad with crispy chicken",
+        "category": "SALADS",
+        "price": 4.5,
+        "description": "Salad with a variety of fresh vegetables, cherry tomatoes, cheese, crispy chicken breast fillet, croutons flavored with garlic & various herbs & Caesar dressing",
+        "avatar": "https://imageproxy.wolt.com/menu/menu-images/5f031548052c1f9d72024d81/35881f5e-f01c-11ed-b923-72378383b646_dh_4090.jpg"
+      },
+      {
+        "id": "7",
+        "name": "Caesar Salad with grilled chicken",
+        "category": "SALADS",
+        "price": 4.5,
+        "description": "Salad with a variety of fresh vegetables, cherry tomatoes, cheese, grilled chicken breast fillet, garlic-flavored crouton & various herbs & Ceasar dressing",
+        "avatar": "https://imageproxy.wolt.com/menu/menu-images/5f031548052c1f9d72024d81/3586de8c-f01c-11ed-b923-72378383b646_dh_4080.jpg"
+      },
+      {
+        "id": "8",
+        "name": "Side Salad",
+        "category": "SALADS",
+        "price": 2.5,
+        "description": "Salad with a variety of fresh vegetables, cherry tomatoes & balsamic dressing",
+        "avatar": "https://imageproxy.wolt.com/menu/menu-images/5f031548052c1f9d72024d81/3589450a-f01c-11ed-b923-72378383b646_dh_4095.jpg"
+      },
+      {
+        "id": "9",
+        "name": "Onion Rings",
+        "category": "FRIES_&_SIDES",
+        "price": 0.99,
+        "description": "",
+        "avatar": "https://imageproxy.wolt.com/menu/menu-images/5fac04051d09d267028a5a10/407a9ce2-08aa-11ee-9cd7-cae699d9c950_dh_1187.jpg"
+      },
+      {
+        "id": "10",
+        "name": "Deluxe Fries",
+        "category": "FRIES_&_SIDES",
+        "price": 1.2,
+        "description": "Crispy, slightly spicy potatoes",
+        "avatar": "https://imageproxy.wolt.com/menu/menu-images/5f031548052c1f9d72024d81/357ab2ba-f01c-11ed-b923-72378383b646_dh_3110.jpg"
+      }
+    ]
+  }
+]

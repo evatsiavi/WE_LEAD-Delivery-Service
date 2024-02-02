@@ -1,0 +1,24 @@
+<a class="nav-link" routerLink="/store/{{ famousStore.id }}">
+  <div class="mostFamousStores-card">
+    <img
+      [src]="famousStore.avatar"
+      [alt]="famousStore.name"
+      class="mostFamousStores-image"
+    />
+    <div class="mostFamousStores-details">
+      <h4 class="mostFamousStores-name">{{ famousStore.name }}</h4>
+
+      <div class="d-flex justify-content-between">
+        <p class="mostFamousStores-description truncateLineClamp">
+          {{ famousStore.description }}
+        </p>
+        <div class="rating-wrap">
+          <img src="../../../assets/icons/star.svg" class="svgIcon" />
+          <p class="mostFamousStores-rating">
+            {{ famousStore.rating }}
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</a>

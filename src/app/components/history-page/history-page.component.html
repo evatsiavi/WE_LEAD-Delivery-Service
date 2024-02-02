@@ -1,0 +1,15 @@
+<div class="container">
+  <div class="pb-2">
+    <h2>Your Orders</h2>
+  </div>
+
+  <div class="grid">
+    @for (history of historyList; track history.id) {
+    <div class="col d-inline-flex justify-content-center p-1">
+      <app-history-card [history]="history" />
+    </div>
+    } @empty {
+    <!-- <h2>no data</h2> -->
+    }
+  </div>
+</div>
